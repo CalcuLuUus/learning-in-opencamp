@@ -194,6 +194,10 @@ jobs:
     - name: Install xtask dependencies
       run: |
         cargo build --release
+    - name: Install xmake
+      run: |
+        curl -fsSL https://xmake.io/shget.text | bash
+        echo "$HOME/.xmake" >> $GITHUB_PATH
     - name: Run C++ course evaluation
       run: |
         cargo run --bin xtask -- eval --course learning-cxx --verbose | tee cxx_test_output.txt
