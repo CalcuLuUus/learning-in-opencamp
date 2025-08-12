@@ -22,7 +22,7 @@
     },
     {
       "name": "exercise05",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise06",
@@ -30,19 +30,19 @@
     },
     {
       "name": "exercise07",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise08",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise09",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise10",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise11",
@@ -50,7 +50,7 @@
     },
     {
       "name": "exercise12",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise13",
@@ -58,51 +58,51 @@
     },
     {
       "name": "exercise14",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise15",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise16",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise17",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise18",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise19",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise20",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise21",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise22",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise23",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise24",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise25",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise26",
@@ -139,8 +139,8 @@
   ],
   "statistics": {
     "total_exercations": 34,
-    "total_succeeds": 8,
-    "total_failures": 26,
-    "total_time": 29
+    "total_succeeds": 26,
+    "total_failures": 8,
+    "total_time": 24
   }
 }
